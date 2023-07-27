@@ -1,0 +1,3 @@
+Youtube vidio link: https://youtu.be/lH7HfwUFnYA
+
+data set: https://www.kaggle.com/code/sadiqshah/bike-store-sales-in-europe/input
